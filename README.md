@@ -124,3 +124,4 @@ See [LICENSE.txt](https://github.com/metabase/metabase/blob/master/LICENSE.txt) 
 
 Unless otherwise noted, all files © 2017 Metabase, Inc.
 .
+.
